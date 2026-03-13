@@ -241,6 +241,3 @@ curl -X POST http://localhost:8081/api/tasks \
 - All task endpoints require authentication
 - Role-based access control on sensitive endpoints
 
-## License
-
-This project is for educational purposes.
